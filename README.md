@@ -1,14 +1,14 @@
-# Scenario Audio Training Webpage
+# Scenario Audio Training Part 2 Webpage
 
 ## Files
 
 Keep these five files together in the same folder (the website root):
 
 - `index.html`
-- `Scenario_1_Success.m4a`
-- `Scenario_2_Success.m4a`
-- `Scenario_3_Success.m4a`
-- `Scenario_4_Success.m4a`
+- `Scenario_1.m4a`
+- `Scenario_2.m4a`
+- `Scenario_3.m4a`
+- `Scenario_4.m4a`
 
 The supplied package contains `index.html` and this README. The four audio assets were not available in the build workspace, so add the original `.m4a` files beside `index.html` before launching or publishing the site.
 
